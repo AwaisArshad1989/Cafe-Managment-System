@@ -1,0 +1,10 @@
+101 Burger 8.99 50
+102 Pizza 12.99 30
+103 Salad 6.99 20
+104 Coffee 3.49 100
+105 Sandwich 7.99 40
+106 Pasta 9.99 25
+107 Smoothie 4.99 60
+108 Chicken Wings 10.99 35
+109 Ice Cream 5.99 15
+110 Sushi 15.99 18
